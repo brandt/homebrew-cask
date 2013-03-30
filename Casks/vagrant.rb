@@ -1,6 +1,6 @@
 class Vagrant < Cask
-  url 'http://files.vagrantup.com/packages/476b19a9e5f499b5d0b9d4aba5c0b16ebe434311/Vagrant.dmg'
+  url 'http://files.vagrantup.com/packages/87613ec9392d4660ffcb1d5755307136c06af08c/Vagrant.dmg'
   homepage 'http://www.vagrantup.com'
-  version '1.0.6'
-  sha256 '30d3cc92c2376ddf940a30f20ae3fa6d8248b83bd4f810a3050217385b03ead0'
+  version '1.1.4'
+  sha256 '61820ede170a709a9d3b041269bf7862ddee6f5e6f7fffcb3cdb80e130d842f5'
 end
